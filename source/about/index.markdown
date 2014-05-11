@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome to My Journey"
-date: 2013-12-22 21:21
+date: 2014-05-11 21:21
 comments: true
 sharing: true
 footer: true
@@ -16,8 +16,11 @@ Thus began a time of self discovery and learning. Along the way I have learned t
 I would like to share with you the stories of what brought me to taking this journey. I want to share the steps I’m taking along my way down this path of change. It can be scary to alter the course of one’s life so directly. I hope to show that it can be done and that I am not an imposter for wanting to make these changes in my life. I am scared, but tentatively finding a great deal of power in what I am doing and I want to share that so others can believe in their own power for change.
 
 I went into this journey sure of 3 things. My perpetual delight in my horses and my ranch. My love for my son and my family. And my continued passion for technology, even though I wasn’t seeing it in my career. These things all contribute to all that I do, so these will also be colorful features here in my blog. Enjoy your time here.
+<br>
+<center>~ Geeky Mama Mare ~</center>
 
-#####A few publishing details
+<br>
+####A few publishing details
 
 It is much easier to see the path of one's journey from the perspective of hindsight.  So this blog will largely be set in the past as it slowly catches up to where I am now on my journey.  I work on the notes for the blog entries as the events are happening in order to capture the raw emotions and experience of the moment.
 
