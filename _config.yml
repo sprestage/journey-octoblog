@@ -67,7 +67,7 @@ github_user: sprestage
 github_repo_count: 4
 github_show_profile_link: true
 github_skip_forks: true
-github_skip_repos: [journey-octoblog, journey-octoblog-prerelease, tech-octoblog]  # list of repos to hide from the sidebar. ex: [blog, username.github.io, old_embarrassing_project]
+github_skip_repos: [journey-octoblog, journey-octoblog-prerelease, tech-octoblog, ivan_the_terribles_blog, terrible-security-blog, my_project, blog_RC250revised]  # list of repos to hide from the sidebar. ex: [blog, username.github.io, old_embarrassing_project]
 
 # Twitter
 twitter_user: SusanPrestage
