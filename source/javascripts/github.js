@@ -21,6 +21,12 @@ var github = (function(){
           if (!data || !data.data) { return; }
           for (var i = 0; i < data.data.length; i++) {
             if (options.skip_forks && data.data[i].fork) { continue; }
+
+            if (!$.inArray(data.data[i].name, options.exclude)) { continue; }
+            if (!$.inArray(data.data[i].name, options.exclude1)) { continue; }
+            if (!$.inArray(data.data[i].name, options.exclude2)) { continue; }
+            if (!$.inArray(data.data[i].name, options.exclude3)) { continue; }
+
             repos.push(data.data[i]);
           }
           if (options.count) { repos.splice(options.count); }
