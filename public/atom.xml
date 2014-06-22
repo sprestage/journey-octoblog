@@ -4,7 +4,7 @@
   <title><![CDATA[A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-06-16T17:02:11-07:00</updated>
+  <updated>2014-06-21T18:11:03-07:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby, Ruby Koans, and CodeAcademy]]></title>
+    <link href="http://geekymamamare.com/blog/2014/06/22/ruby-koans-and-codeacademy/"/>
+    <updated>2014-06-22T15:53:27-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/06/22/ruby-koans-and-codeacademy</id>
+    <content type="html"><![CDATA[<p>April and May 2013</p>
+
+<p>I remembered a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back and so worked my way through the koans again.  A very good reminder of the fun I had exploring this new language and how easy thing were to implement in Ruby.  Ruby saves developers the extreme pain of memory allocation and pointers and string manipulation.  This made Ruby seem like something to investigate further, so I did a bit of research investigating online learning resources to further my knowledge of Ruby.</p>
+
+<p>I found CodeAcademy and spent most of April and May working my way through their Ruby, JavaScript, and JQuery offerings.  Their lessons are pretty basic, but are a fun introduction and free.  I hadn&rsquo;t really meant to do the JS and JQuery lessons, but their Ruby lessons were broken for a while.  I enjoyed the gamification of the coding lessons, where I could earn a personal high score in Points Today, Day Streak, Total Points, and Badges Completed.</p>
+
+<p>I was rapidly starting to believe that Ruby on Rails may well be a good and enjoyable start along my path towards my goal.</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GeekGirlCon Cocktail Connections networking meetup]]></title>
