@@ -3,7 +3,7 @@ ruby '2.1.4'
 
 group :development do
   gem 'rake'
-  gem 'jekyll'
+  gem 'jekyll', '2.5.3'
   gem 'rdiscount'
   gem 'pygments.rb'
   gem 'RedCloth'
@@ -14,7 +14,7 @@ group :development do
   gem 'rubypants'
   gem 'rb-fsevent'
   gem 'stringex'
-  gem 'liquid', '3.0.6'
+  gem 'liquid', '2.6.1'
   gem 'directory_watcher'
 end
 
