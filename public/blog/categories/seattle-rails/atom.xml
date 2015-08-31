@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Seattle Rails | A Woman's Journey Through Technology]]></title>
+  <link href="http://geekymamamare.com/blog/categories/seattle-rails/atom.xml" rel="self"/>
+  <link href="http://geekymamamare.com/"/>
+  <updated>2014-07-16T16:07:59-07:00</updated>
+  <id>http://geekymamamare.com/</id>
+  <author>
+    <name><![CDATA[Susan Prestage]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Seattle Rails Educational and Networking Meetup]]></title>
+    <link href="http://geekymamamare.com/blog/2014/06/29/seattle-rails-educational-and-networking-meetup/"/>
+    <updated>2014-06-29T18:15:43-07:00</updated>
+    <id>http://geekymamamare.com/blog/2014/06/29/seattle-rails-educational-and-networking-meetup</id>
+    <content type="html"><![CDATA[<p>April 16th, 2013</p>
+
+<p>The Seattle Rails educational and networking meet-up was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.</p>
+
+<p>The Seattle Rails community was very welcoming.  I felt encouraged and came away eager to continue forward learning Ruby and Rails as well as networking with folks in that community.  &ldquo;Matz is nice, so we are nice.&rdquo;, sometimes pronounced aloud: MINSWAN.  This is a phrase I learned at this event referring to the ruby language designer,  Mr. Yukihiro Matsumoto (Matz).  It seems very true.  I am looking forward to becoming a part of this community.</p>
+
+<p><br></p>
+
+<center>~ Geeky Mama Mare ~</center>
+
+]]></content>
+  </entry>
+  
+</feed>
