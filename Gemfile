@@ -14,7 +14,7 @@ group :development do
   gem 'rubypants'
   gem 'rb-fsevent'
   gem 'stringex'
-  gem 'liquid'
+  gem 'liquid', '3.0.6'
   gem 'directory_watcher'
 end
 
