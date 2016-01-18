@@ -2,3 +2,10 @@ language: ruby
 rvm:
 - 2.2.1
 script: bundle exec rake generate
+deploy:
+  provider: heroku
+  api_key:
+    secure: OrzljLqYeNIjO7AsR0PYIKduM66jjI9Ed9Psf76je9keexbHBuwXq6D0yAEE5FQSPq10D9LpuxwC8kaBBOJM4BpIkJDd66RvXA66hA9LhzylyotIRfEp2cIB6raZXS6AHvFgmb0AH0QNrOO/FKFqNhjh7u1YLMi1lPMZvCXjfLU=
+  app: sprestage-journey-blog
+  on:
+    repo: sprestage/journey-octoblog
