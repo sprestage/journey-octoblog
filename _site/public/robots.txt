@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://geekymamamare.com/sitemap.xml 

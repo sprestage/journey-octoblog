@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: hardware | A Woman's Journey Through Technology]]></title>
+  <title><![CDATA[Category: Hardware | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/hardware/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-07-16T16:07:59-07:00</updated>
+  <updated>2016-01-18T12:35:40-08:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My computer background]]></title>
+    <title type="html"><![CDATA[My Computer Background]]></title>
     <link href="http://geekymamamare.com/blog/2014/06/01/my-computer-background/"/>
     <updated>2014-06-01T14:01:06-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/06/01/my-computer-background</id>

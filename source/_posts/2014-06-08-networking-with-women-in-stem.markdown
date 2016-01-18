@@ -11,7 +11,7 @@ categories:
 - meetups
 - a plan
 ---
-March 28-31st, 2013
+March 28-31st, 2013 (Memories from the past)
 
 Spring brought with it the local literary convention, NorWesCon.  There were several panels that got me giving a great deal of thought about:
 <ul>

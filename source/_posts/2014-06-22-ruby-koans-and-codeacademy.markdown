@@ -9,7 +9,7 @@ categories:
 - coding
 - a plan
 ---
-April and May 2013
+April and May 2013 (Memories from the past)
 
 I remembered a nudge towards Ruby Koans that I'd been given by a friend and colleague a couple years back and so worked my way through the koans again.  A very good reminder of the fun I had exploring this new language and how easy thing were to implement in Ruby.  Ruby saves developers the extreme pain of memory allocation and pointers and string manipulation.  This made Ruby seem like something to investigate further, so I did a bit of research investigating online learning resources to further my knowledge of Ruby.
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: passion | A Woman's Journey Through Technology]]></title>
+  <title><![CDATA[Category: Passion | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/passion/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-07-16T16:07:59-07:00</updated>
+  <updated>2016-01-18T12:35:40-08:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -38,7 +38,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[How my journey begins]]></title>
+    <title type="html"><![CDATA[How My Journey Begins]]></title>
     <link href="http://geekymamamare.com/blog/2014/05/11/how-my-journey-begins/"/>
     <updated>2014-05-11T22:49:04-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/05/11/how-my-journey-begins</id>

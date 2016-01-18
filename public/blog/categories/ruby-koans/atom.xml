@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: ruby koans | A Woman's Journey Through Technology]]></title>
+  <title><![CDATA[Category: Ruby Koans | A Woman's Journey Through Technology]]></title>
   <link href="http://geekymamamare.com/blog/categories/ruby-koans/atom.xml" rel="self"/>
   <link href="http://geekymamamare.com/"/>
-  <updated>2014-07-16T16:07:59-07:00</updated>
+  <updated>2016-01-18T12:35:40-08:00</updated>
   <id>http://geekymamamare.com/</id>
   <author>
     <name><![CDATA[Susan Prestage]]></name>
@@ -18,7 +18,7 @@
     <link href="http://geekymamamare.com/blog/2014/06/22/ruby-koans-and-codeacademy/"/>
     <updated>2014-06-22T15:53:27-07:00</updated>
     <id>http://geekymamamare.com/blog/2014/06/22/ruby-koans-and-codeacademy</id>
-    <content type="html"><![CDATA[<p>April and May 2013</p>
+    <content type="html"><![CDATA[<p>April and May 2013 (Memories from the past)</p>
 
 <p>I remembered a nudge towards Ruby Koans that I&rsquo;d been given by a friend and colleague a couple years back and so worked my way through the koans again.  A very good reminder of the fun I had exploring this new language and how easy thing were to implement in Ruby.  Ruby saves developers the extreme pain of memory allocation and pointers and string manipulation.  This made Ruby seem like something to investigate further, so I did a bit of research investigating online learning resources to further my knowledge of Ruby.</p>
 

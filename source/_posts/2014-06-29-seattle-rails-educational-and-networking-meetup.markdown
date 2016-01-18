@@ -9,7 +9,7 @@ categories:
 - meetups
 - MINSWAN
 ---
-April 16th, 2013
+April 16th, 2013 (Memories from the past)
 
 The Seattle Rails educational and networking meet-up was an evening-long event with two technical talks, dinner, and networking.  I was pretty nervous going into this, since my programming skills are rusty at best, and I am completely new to Ruby.
 
