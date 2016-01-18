@@ -12,7 +12,7 @@ categories:
 ---
 Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.
 
-Please enjoy sharing my journey re-discovering my passion in technology and changing my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at the dilemna I found myself in.
+Please enjoy sharing my journey re-discovering my passion in technology and changing my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at the dilemma I found myself in.
 
 I had been a quality engineer in the computer industry for 20 years, when, in the summer of 2011, my dream job fell through my hands.  I was devastated.  I quickly realized that I was far too emotionally fragile for the moment and needed to take some time away from the industry to recover from my heart ache.  Tears and interviews do not mix.
 
