@@ -5,7 +5,7 @@ script: bundle exec rake generate
 deploy:
   provider: heroku
   api_key:
-    secure: Hs7f4LZzQALRAjQv9OxHqN0fSEm0StSWPf4nNOYbsX+Ftk41Zi01LRtBJ/6/1Y4QM3NlTYjEpdG+e78DqSt3mtgFhVPH7wB4t1HjqwBVGQhnhdEMWShjYsy4ORkTyBrtl+2FMDaaRCHjHHkN1k+TDSwQ1r6bYCl7NbNItqRfzjc=
+    secure: M9Vu8d8JRT/foiCkGpTpju8OLNjXOLT1hPkWrjBdXCCeG0P65rSBBsre6vMlKOh5idLSYGR3q+olFqR0uXr7fNbcILm8BBeivlo8MxXisz7Ur8b7rGw9K6k28h6paLGwgh8nYgJhdGCyfaAqPVq0sxUHFRNjeKosDUoMoEGjHiU=
   app: sprestage-journey-blog
   on:
     repo: sprestage/journey-octoblog
