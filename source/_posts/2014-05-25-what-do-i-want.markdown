@@ -21,7 +21,7 @@ You see, I'm a rather strong personality.  Small surprise there, I know.  But wh
 
 She helped me remember the things I find important.  And that my weakness is part of my strength and definitely part of my appeal.  She showed me the beginnings of the support that women can give one another.  And I started to discover some of the strength found from the support of other engineering women.  She reminded me, through many delightfully geeky conversations about my love for engineering, right down to the 1's and 0's of circuit design.  To be sure I'd learned my lesson, this valued friend sent me a LED clock engineering kit (AdaFruit is awesome!) for my birthday in the beginning of 2013.  It wasn't very long before I took the time to start soldering the pieces of that clock.  So. Much. Fun.
 
-Hey.  There it is.  My joy in engineering.  Still there, without a doubt.
+Hey!  There it is.  My joy in engineering.  Still there, without a doubt.  Oh good!
 
 OK, so now what...?
 

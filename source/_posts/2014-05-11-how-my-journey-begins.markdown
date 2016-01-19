@@ -16,7 +16,7 @@ Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.
 
 Please enjoy sharing my journey re-discovering my passion in technology and changing my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at the dilemma I found myself in.
 
-I had been a quality engineer in the computer industry for 20 years, when, in the summer of 2011, my dream job fell through my hands.  I was devastated.  I quickly realized that I was far too emotionally fragile for the moment and needed to take some time away from the industry to recover from my heart ache.  Tears and interviews do not mix.
+I had been a quality engineer in the computer industry for 20 years, when, in the summer of 2011, what I thought was my dream job fell through my hands.  I was devastated.  I quickly realized that I was far too emotionally fragile for the moment and needed to take some time away from the industry to recover from my heart ache.  Tears and interviews do not mix.
 
 A year passed and I refreshed my resume and leapt back into the job search.  I have been fortunate in the past in that each job came along just as it was needed, usually through networking, and generally right along the lines of where I wanted my career to go.  This time though, it was a different experience.  None of the jobs available seemed to be a good fit for my skills or my experience.  I also was beginning to discover a lack of motivation in my search.  It was as if my passion for technology and computers was missing.
 
