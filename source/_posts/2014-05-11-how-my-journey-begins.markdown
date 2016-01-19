@@ -10,6 +10,8 @@ categories:
 - passion
 - priorities
 ---
+2011 and 2012 (At the beginning of the journey)
+
 Hello old friends.  Hello new friends.  Hello colleagues.  Hello young learners.  Hello respected professionals.  I am the GeekyMamaMare.  Welcome to my blog.
 
 Please enjoy sharing my journey re-discovering my passion in technology and changing my career from software testing to software development.  A wordy intro statement indeed, but very relevant to my journey as you will see in time.  Let's start by looking at the dilemma I found myself in.
