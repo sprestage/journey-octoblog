@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who Am I"
+title: "Who am I"
 date: 2014-05-18 22:43:52 -0800
 comments: true
 categories:

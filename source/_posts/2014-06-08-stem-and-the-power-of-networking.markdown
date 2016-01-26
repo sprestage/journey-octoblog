@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Networking with women in STEM"
+title: "STEM and the power of networking"
 date: 2014-06-08 14:03:42 -0700
 comments: true
 categories:

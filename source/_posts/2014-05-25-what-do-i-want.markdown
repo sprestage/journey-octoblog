@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Do I Want"
+title: "What do I want"
 date: 2014-05-25 20:19:07 -0800
 comments: true
 categories:
